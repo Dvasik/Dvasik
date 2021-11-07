@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dvasik
 - 👀 I’m interested in c++ programming
-- 🌱 I’m currently learning electrostatic
+- 🌱 I’m currently learning programming
 - 📫 How to reach me: vk.com/pd2as; t.me/PDvas 
 
 <!---
